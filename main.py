@@ -12,7 +12,7 @@ import torchvision.transforms as tf
 
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
-import torchmetrics
+
 
 
 def evaluate_accuracy(net, data_iter, loss, device):
